@@ -3,9 +3,11 @@ A WireGuard VPN Docker script is a self-hosted solution that allows you to quick
 
 
 Edit script
+
 vim docker-compose.yaml
 
 Install
+
 docker-compose up -d
 
 
